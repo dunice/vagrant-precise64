@@ -1,0 +1,5 @@
+Berksfile.lock
+.vagrant/
+www/*
+*.sublime-workspace
+.DS_Store
